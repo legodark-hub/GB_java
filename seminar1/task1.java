@@ -1,4 +1,4 @@
-package GB_java;
+package GB_java.seminar1;
 
 import java.util.Random;
 
